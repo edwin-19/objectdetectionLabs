@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hologramB</folder>
+	<filename>hologramB3.jpg</filename>
+	<path>/home/i-serve/Desktop/opencv/tf classifier/hologram dataset/hologramB/hologramB3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hologramB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>282</ymin>
+			<xmax>530</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

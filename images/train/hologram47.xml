@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hologram47.jpg</filename>
+	<path>C:\Users\Edwin\Documents\Iserve\Tensorflow\images\train\hologram47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>804</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hologramB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>329</ymin>
+			<xmax>390</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

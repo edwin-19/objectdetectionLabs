@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ic2.jpg</filename>
+	<path>/home/i-serve/Desktop/opencv/opencv_image_classifier/train/ic2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hologram</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>3</ymin>
+			<xmax>348</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

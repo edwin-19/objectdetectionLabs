@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hologram160.jpg</filename>
+	<path>/home/i-serve/Desktop/opencv/large_image_classfier/images/train/hologram160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hologramB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>274</ymin>
+			<xmax>382</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

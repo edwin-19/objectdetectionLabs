@@ -1,0 +1,13 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+hologramB1.jpg,800,508,hologramB,412,299,526,482
+hologramB2.jpg,800,487,hologramB,405,275,526,487
+hologramB3.jpg,800,485,hologramB,411,282,530,479
+hologramB4.jpg,800,512,hologramB,420,309,534,508
+hologramB5.jpg,804,500,hologramB,416,297,524,498
+hologramB6.jpg,804,500,hologramB,415,287,528,448
+ic1.jpg,633,156,hologram,1,2,627,156
+ic2.jpg,352,582,hologram,5,3,348,582
+ic3.jpg,294,414,hologram,6,7,184,263
+ic4.jpg,226,172,hologram,23,29,213,158
+ic5.jpg,104,96,hologram,1,1,103,96
+ic6.jpg,62,110,hologram,1,1,62,109
